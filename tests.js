@@ -13,5 +13,5 @@ if (index.height === 70) {
 }
 
 if (index.height === 70 && index.name ==="Susan") {
-  console.console.log("Both name and height are matching 'Susan' & 70");
+  console.log("Both name and height are matching 'Susan' & 70");
 }
