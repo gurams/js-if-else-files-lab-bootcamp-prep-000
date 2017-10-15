@@ -11,4 +11,3 @@ if(name=== "susan"){
 } else{
   console.log("Name is not equal to susan");
 }
-
